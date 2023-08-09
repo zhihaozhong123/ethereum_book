@@ -1,3 +1,4 @@
+网页版：https://jingyecn.top/ethereum_book/
 ### [《精通以太坊——实现数字合约》](https://github.com/ethereumbook/ethereumbook) 中文版
 
 ### 关于译者
